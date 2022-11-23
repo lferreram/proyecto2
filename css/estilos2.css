@@ -1,0 +1,19 @@
+body{ 
+      text-align: center; 
+      background-color: beige; 
+      color: rgb(129, 129, 60);}
+
+h1 { font-size: 60px;}
+
+
+#valor { font-size: 90;
+        font-weight:bold;}
+
+.btn { 
+       font-size: 15px;
+       background-color: blanchedalmond;
+       color: rgb(112, 160, 144);
+       border: none;}   
+
+
+      
